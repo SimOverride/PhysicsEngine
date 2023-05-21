@@ -86,7 +86,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="libgraphics\exceptio.c">
+    <ClCompile Include="libgraphics\exception.c">
       <Filter>libGraphics</Filter>
     </ClCompile>
     <ClCompile Include="libgraphics\genlib.c">
