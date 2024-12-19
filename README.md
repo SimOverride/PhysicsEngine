@@ -1,0 +1,3 @@
+- 大一时的做着玩的，现在看来很粗糙
+- 当时也不会用github，上传中有一堆问题。
+- 如果要编译运行，在vs项目设置中添加`physics`和`libgraphics`目录，预处理器添加`_CRT_SECURE_NO_WARNINGS`，并设置多字节字符集
